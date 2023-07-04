@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+    <item
+        android:id="@+id/sport"
+        android:title="Sport"
+        android:icon="@drawable/pushup" />
+    <item
+        android:id="@+id/report"
+        android:title="Report"
+        android:icon="@drawable/baseline_bar_chart_24" />
+    <item
+        android:id="@+id/record"
+        android:title="Record"
+        android:icon="@drawable/baseline_edit_note_24" />
+
+</menu>
