@@ -39,12 +39,12 @@
             app:layout_constraintHorizontal_bias="0.144"
             app:layout_constraintStart_toStartOf="@+id/imageView1"
             app:layout_constraintTop_toTopOf="@+id/imageView1"
-            app:layout_constraintVertical_bias="0.15" />
+            app:layout_constraintVertical_bias="0.1" />
 
         <com.github.mikephil.charting.charts.LineChart
             android:id="@+id/lineChart_weight"
             android:layout_width="300dp"
-            android:layout_height="180dp"
+            android:layout_height="190dp"
             app:layout_constraintBottom_toBottomOf="@+id/imageView1"
             app:layout_constraintStart_toStartOf="@id/imageView1"
             app:layout_constraintEnd_toEndOf="@id/imageView1"
@@ -77,12 +77,12 @@
             app:layout_constraintHorizontal_bias="0.144"
             app:layout_constraintStart_toStartOf="@+id/imageView1"
             app:layout_constraintTop_toTopOf="@+id/imageView2"
-            app:layout_constraintVertical_bias="0.15" />
+            app:layout_constraintVertical_bias="0.1" />
 
         <com.github.mikephil.charting.charts.LineChart
             android:id="@+id/lineChart_calorie"
             android:layout_width="300dp"
-            android:layout_height="180dp"
+            android:layout_height="190dp"
             app:layout_constraintBottom_toBottomOf="@+id/imageView2"
             app:layout_constraintStart_toStartOf="@id/imageView2"
             app:layout_constraintEnd_toEndOf="@id/imageView2"
